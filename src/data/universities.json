@@ -1,0 +1,69 @@
+[
+  {
+    "id": 1,
+    "name": "UCAO",
+    "city": "Abidjan",
+    "minScore": 200,
+    "tuition": 1000000,
+    "description": "Une université réputée pour ses filières littéraires",
+    "programs": ["Droit"],
+    "serie": ["A", "D"],
+    "image": "ucao.jpg"
+  },
+  {
+    "id": 2,
+    "name": "INJS",
+    "city": "Abidjan",
+    "minScore": 200,
+    "tuition": 150000,
+    "description": "Offre un bon équilibre entre coût et qualité d’enseignement.",
+    "programs": ["Sport"],
+    "serie": ["A", "C", "D"],
+    "image": "injs.jpg"
+  },
+  {
+    "id": 3,
+    "name": "INPHB",
+    "city": "Yamoussoukro",
+    "minScore": 240,
+    "tuition": 120000,
+    "description": "Spécialisée dans la formation d’ingénieurs.",
+    "programs": ["Informatique"],
+    "serie": ["C", "D"],
+    "image": "inp.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Université de Bondoukou",
+    "city": "Bondoukou",
+    "minScore": 220,
+    "tuition": 120000,
+    "description": "Propose un enseignement dans un cadre sain et agréable.",
+    "programs": ["Architecture"],
+    "serie": ["A", "C", "D"],
+    "image": "bondoukou.jpg"
+  },
+  {
+    "id": 5,
+    "name": "CPDEC",
+    "city": "Abidjan",
+    "minScore": 200,
+    "tuition": 75000,
+    "description": "Forme les meilleurs financiers du pays.",
+    "programs": ["Comptabilité"],
+    "serie": ["A", "C", "D"],
+    "image": "cpdec.jpg"
+  },
+   {
+    "id": 6,
+    "name": "UFHB",
+    "city": "Abidjan",
+    "minScore": 200,
+    "tuition": 75000,
+    "description": "Institut reconnu depuis plus de 50ans pour créer les cadres de demain.",
+    "programs": ["Droit","Informatique"],
+    "serie": ["A", "C", "D"],
+    "image": "ufhb.jpg"
+  }
+
+]

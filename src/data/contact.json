@@ -1,0 +1,20 @@
+{
+  "header": {
+    "title": "Contactez-nous",
+    "subtitle": "Nous serions ravis d’échanger avec vous !"
+  },
+  "form": {
+    "name": "Nom complet",
+    "email": "Adresse email",
+    "message": "Votre message",
+    "buttonText": "Envoyer le message"
+  },
+  "info": {
+    "address": "Cocody, Abidjan – Côte d’Ivoire",
+    "phone": "+225 07 07 07 07 07",
+    "email": "contact@universiteplus.com"
+  },
+  "footer": {
+    "text": "© 2025 Université+ – Tous droits réservés."
+  }
+}

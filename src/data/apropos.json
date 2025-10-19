@@ -1,0 +1,23 @@
+{
+  "header": {
+    "title": "À propos de Université+",
+    "subtitle": "Découvrez notre mission, nos valeurs et notre vision."
+  },
+  "sections": [
+    {
+      "title": "Notre mission",
+      "content": "Université+ vise à faciliter la recherche d'universités pour les étudiants africains, en leur offrant une plateforme intuitive, fiable et complète pour comparer les établissements selon leurs critères personnels."
+    },
+    {
+      "title": "Notre vision",
+      "content": "Devenir la référence en matière d'orientation universitaire en Afrique, en rendant l'accès à l'information simple, rapide et transparente pour tous."
+    },
+    {
+      "title": "Nos valeurs",
+      "content": "Nous croyons en l'accessibilité à l'éducation, la transparence des informations et l'accompagnement personnalisé des étudiants dans leurs choix académiques."
+    }
+  ],
+  "footer": {
+    "text": "© 2025 Université+ — Ensemble, ouvrons les portes du savoir."
+  }
+}

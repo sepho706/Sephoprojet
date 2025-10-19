@@ -1,0 +1,25 @@
+{
+  "hero": {
+    "title": "Université+ : Trouve ton avenir académique",
+    "subtitle": "Découvre les universités qui te correspondent selon ton profil et ton budget.",
+    "buttonText": "Commencer la recherche"
+  },
+  "features": [
+    {
+      "title": "Compare facilement",
+      "description": "Filtre les universités selon la ville, les frais, ou les programmes proposés."
+    },
+    {
+      "title": "Reçois des recommandations",
+      "description": "Notre algorithme te propose les universités qui correspondent à ton profil."
+    },
+    {
+      "title": "Garde tes favoris",
+      "description": "Ajoute les établissements que tu veux suivre et consulte-les à tout moment."
+    }
+  ],
+  "footer": {
+    "text": "Université+, l'app qui te guide vers ton futur académique.",
+    "contact": "Contact : +225 0505972127 — Email : sephorayao225@gmail.com"
+  }
+}

@@ -1,0 +1,54 @@
+.apropos-container {
+  font-family: "Poppins", sans-serif;
+  padding: 50px;
+  max-width: 900px;
+  margin: 0 auto;
+  color: #333;
+  animation: fadeIn 0.8s ease;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(15px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.apropos-header {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.apropos-header h1 {
+  color: #2a4d9b;
+  margin-bottom: 10px;
+}
+
+.apropos-section {
+  margin-bottom: 30px;
+  background-color: #f8f9fc;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.08);
+}
+
+.apropos-section h2 {
+  color: #2a4d9b;
+  margin-bottom: 10px;
+}
+
+.apropos-section p {
+  line-height: 1.7;
+  font-size: 1rem;
+}
+
+.apropos-footer {
+  text-align: center;
+  margin-top: 40px;
+  font-size: 0.9rem;
+  color: #666;
+}
