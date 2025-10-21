@@ -7,7 +7,7 @@ function Main() {
   return (
     <BrowserRouter>
       <Routes>
-        <Route path="/" element={<Accueil />} />
+        <Route path="/" element={<Accueil/>}  />
         <Route path="/universites" element={<App />} />
         <Route path="/contact" element={<Contact />} />
         <Route path="/apropos" element={<Apropos />} />

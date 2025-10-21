@@ -31,7 +31,7 @@ function Accueil() {
         </div>
       </section>
 
-      {/* FEATURES — sans images */}
+      {/* FEATURES */}
       <section className="features">
         {features.map((f, index) => (
           <div key={index} className="feature-card no-image">

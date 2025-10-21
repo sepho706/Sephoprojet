@@ -8,7 +8,8 @@
     "description": "Une université réputée pour ses filières littéraires",
     "programs": ["Droit"],
     "serie": ["A", "D"],
-    "image": "ucao.jpg"
+    "image": "ucao.jpg",
+    "link":"https://ucaouua.com/"
   },
   {
     "id": 2,
@@ -19,7 +20,8 @@
     "description": "Offre un bon équilibre entre coût et qualité d’enseignement.",
     "programs": ["Sport"],
     "serie": ["A", "C", "D"],
-    "image": "injs.jpg"
+    "image": "injs.jpg",
+    "link":"https://concours.injsabidjan.net/"
   },
   {
     "id": 3,
@@ -30,7 +32,9 @@
     "description": "Spécialisée dans la formation d’ingénieurs.",
     "programs": ["Informatique"],
     "serie": ["C", "D"],
-    "image": "inp.jpg"
+    "image": "inp.jpg",
+    "link":"https://www.inphb.edu.ci/"
+    
   },
   {
     "id": 4,
@@ -41,7 +45,8 @@
     "description": "Propose un enseignement dans un cadre sain et agréable.",
     "programs": ["Architecture"],
     "serie": ["A", "C", "D"],
-    "image": "bondoukou.jpg"
+    "image": "bondoukou.jpg",
+    "link":"https://ubkou.edu.ci/"
   },
   {
     "id": 5,
@@ -52,7 +57,8 @@
     "description": "Forme les meilleurs financiers du pays.",
     "programs": ["Comptabilité"],
     "serie": ["A", "C", "D"],
-    "image": "cpdec.jpg"
+    "image": "cpdec.jpg",
+    "link":"https://cpdec.inphb.ci/"
   },
    {
     "id": 6,
@@ -63,7 +69,116 @@
     "description": "Institut reconnu depuis plus de 50ans pour créer les cadres de demain.",
     "programs": ["Droit","Informatique"],
     "serie": ["A", "C", "D"],
-    "image": "ufhb.jpg"
+    "image": "ufhb.jpg",
+    "link":"https://w.univ-fhb.edu.ci"
+  },
+  {
+    "id": 7,
+    "name": "CERAP",
+    "city": "Abidjan",
+    "minScore": 200,
+    "tuition": 120000,
+    "description": "Université jésuite pronant les valeurs religieuses et intellectuelles pour la formation de ses étudiants.",
+    "programs": ["Droit"],
+    "serie": ["A", "C", "D"],
+    "image": "cerap.jpg",
+    "link":"https://cerap-inades.org/"
+  },
+  {
+    "id": 8,
+    "name": "IUA",
+    "city": "Abidjan",
+    "minScore": 200,
+    "tuition": 500000,
+    "description": "Eduque les leaders de demain.",
+    "programs": ["Droit","Informatique","Comptabilité"],
+    "serie": ["A", "C", "D"],
+    "image": "iua.jpg",
+    "link":"https://elearning.iua.ci/"
+  },
+  {
+    "id": 9,
+    "name": "UL",
+    "city": "Abidjan",
+    "minScore": 200,
+    "tuition": 500000,
+    "description": "Institut reconnu depuis plus de 50ans pour créer les cadres de demain.",
+    "programs": ["Droit","Informatique","Comptabilité"],
+    "serie": ["A", "C", "D"],
+    "image": "ul.jpg",
+    "link":"https://ulagunes.com/"
+  },
+  {
+    "id": 10,
+    "name": "ESATIC",
+    "city": "Abidjan",
+    "minScore": 200,
+    "tuition": 120000,
+    "description": "Pôle d'excellence des TIC.",
+    "programs": ["Informatique"],
+    "serie": ["A", "C", "D"],
+    "image": "esatic.jpg",
+    "link":"https://esatic.ci/"
+  },
+  {
+    "id": 11,
+    "name": "IIPEA",
+    "city": "Abidjan",
+    "minScore": 200,
+    "tuition": 120000,
+    "description": "Université dévouée dans la bonne formation de ses apprenants.",
+    "programs": ["Droit","Comptabilité"],
+    "serie": ["A", "C", "D"],
+    "image": "iipea.jpg",
+    "link":"https://iipea.com/"
+  },
+  {
+    "id": 12,
+    "name": "ISPA",
+    "city": "Abidjan",
+    "minScore": 200,
+    "tuition": 120000,
+    "description": "Centre de formation centralisé dans les filières de la tech.",
+    "programs": ["Informatique"],
+    "serie": ["A", "C", "D"],
+    "image": "ispa.jpg",
+    "link":"https://ispapolytech.fr/"
+  },
+  {
+    "id": 13,
+    "name": "UPB",
+    "city": "Abidjan",
+    "minScore": 200,
+    "tuition": 120000,
+    "description": "Université Privée axée dans le monde de la technologie",
+    "programs": ["Informatique"],
+    "serie": ["A", "C", "D"],
+    "image": "upb.jpg",
+    "link":"https://upb.ci/"
+  },
+  {
+    "id": 14,
+    "name": "Université Nord-Sud",
+    "city": "Abidjan",
+    "minScore": 200,
+    "tuition": 150000,
+    "description": "Offre un bon cadre d'apprentissage",
+    "programs": ["Informatique"],
+    "serie": ["A", "C", "D"],
+    "image": "uns.jpg",
+    "link":"https://upesup.ci/"
+  },
+  {
+    "id": 15,
+    "name": "ENSEA",
+    "city": "Abidjan",
+    "minScore": 240,
+    "tuition": 120000,
+    "description": "Meilleure école de statistiques et de mathématiques",
+    "programs": ["Informatique"],
+    "serie": ["C", "D"],
+    "image": "ensea.jpg",
+    "link":"https://ensea.ed.ci/"
   }
 
 ]
