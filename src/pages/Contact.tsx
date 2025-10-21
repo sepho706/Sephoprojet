@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import "./contact.css";
+import "./Contact.css";
 import contactData from "../data/contact.json";
 import { motion } from "framer-motion";
 import { Link } from "react-router-dom";
